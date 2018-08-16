@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Ojek Online</string>
+    <string name="title_activity_maps">Map</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_maps2">Map</string>
+    <string name="title_activity_posisi_driver2">Map</string>
+    <string name="requireemail">Please enter email addres</string>
+    <string name="enterpassword">Please enter password</string>
+    <string name="passwordshort">Password Too Short!!</string>
+    <string name="entername">Please enter name</string>
+    <string name="enterphone">Please enter phone</string>
+    <string name="register">REGISTER</string>
+    <string name="message_register">Please use email and password for register</string>
+    <string name="title_register">Register</string>
+    <string name="cancel">CANCEL</string>
+    <string name="title_activity_detail_lokasi_driver">Map</string>
+</resources>
